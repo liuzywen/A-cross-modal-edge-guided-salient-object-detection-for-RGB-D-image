@@ -6,4 +6,4 @@ Salient object detection simulates the attention mechanism of human behavior to 
 
 ## Architecture
 VGG-SSM Architecture
-![](./EdgeRGBD.eps)
+![](./EdgeRGBDmain.eps)
